@@ -16,7 +16,8 @@ runtime:
         - pdo_pgsql
         - sodium
         - xsl
-
+    xdebug:
+        idekey: secret_key
 
 variables:
     php:
