@@ -17,7 +17,7 @@ runtime:
         - sodium
         - xsl
     xdebug:
-        idekey: secret_key
+        idekey: XDEBUG_ECLIPSE
 
 variables:
     php:
