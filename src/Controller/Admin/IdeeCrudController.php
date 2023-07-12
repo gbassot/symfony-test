@@ -11,7 +11,7 @@ class IdeeCrudController extends AbstractCrudController
     {
         return Idee::class;
     }
-    
+
 
     /*
     public function configureFields(string $pageName): iterable
