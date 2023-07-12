@@ -16,7 +16,8 @@ runtime:
         - pdo_pgsql
         - sodium
         - xsl
-
+    xdebug:
+        idekey: XDEBUG_ECLIPSE
 
 variables:
     php:
